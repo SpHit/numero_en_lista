@@ -8,6 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         //Comentario salvaje aparece
+        //Con esto te vas a cagar
             Scanner lector = new Scanner(System.in);
             Random aleatorio = new Random();
             ArrayList<Integer> milista = new ArrayList<>();
