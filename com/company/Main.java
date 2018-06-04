@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        //Comentario salvaje aparece
             Scanner lector = new Scanner(System.in);
             Random aleatorio = new Random();
             ArrayList<Integer> milista = new ArrayList<>();
